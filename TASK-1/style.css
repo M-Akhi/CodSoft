@@ -1,0 +1,35 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #1d7a93;
+}
+
+header, section, footer {
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+section#about img {
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Add more custom styling as needed */
